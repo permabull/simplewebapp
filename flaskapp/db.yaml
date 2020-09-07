@@ -1,4 +1,0 @@
-mysql_host: '10.0.0.7'
-mysql_user: 'prodapp01'
-mysql_password: 'saidrobertserver'
-mysql_db: 'userlogindata'
