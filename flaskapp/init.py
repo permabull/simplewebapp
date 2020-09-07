@@ -3,8 +3,6 @@ from flask_mysqldb import MySQL
 import yaml
 import hashlib, binascii, os
 
-#yaboybreeeh
-#newcommentagain
 app = Flask(__name__)
 
 db = yaml.load(open('/var/www/html/flaskapp/db.yaml'))
