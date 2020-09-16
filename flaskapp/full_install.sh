@@ -1,3 +1,6 @@
+#Deploy on azure VM
+
+
 #!/bin/bash
 
 MYSQLIP=''
