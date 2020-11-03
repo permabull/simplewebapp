@@ -4,7 +4,6 @@ import yaml
 import hashlib, binascii, os
 
 #Yeah booiiiii
-#hehe
 
 app = Flask(__name__)
 
